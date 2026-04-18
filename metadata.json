@@ -1,0 +1,6 @@
+{
+  "name": "The Local Auditor",
+  "description": "Browser extension MVP for tag governance, performance profiling, and payload validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
