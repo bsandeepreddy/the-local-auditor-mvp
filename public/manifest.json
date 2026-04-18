@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "The Local Auditor",
+  "version": "1.0.0",
+  "description": "Tag Governance & Performance Profiling engine for high-traffic sites.",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "action": {
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
